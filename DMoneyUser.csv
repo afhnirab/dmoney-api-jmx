@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1675785476776,84,Login,200,OK,DMoneyUser 1-1,text,true,,546,307,1,1,http://dmoney.roadtocareer.net/user/login,73,0,34
+1675785476914,476,Create New Agent,201,Created,DMoneyUser 1-1,text,true,,586,621,1,1,http://dmoney.roadtocareer.net/user/create,476,0,0
+1675785477392,59,Deposit money from system to agent,201,Created,DMoneyUser 1-1,text,true,,413,527,1,1,http://dmoney.roadtocareer.net/transaction/deposit,59,0,0
+1675785477452,29,Create New Customer,201,Created,DMoneyUser 1-1,text,true,,587,622,1,1,http://dmoney.roadtocareer.net/user/create,29,0,0
+1675785477483,26,Search User,200,OK,DMoneyUser 1-1,text,true,,587,437,1,1,http://dmoney.roadtocareer.net/user/search/phonenumber/01113495070,26,0,0
+1675785477511,43,Deposit money from agent to customer,201,Created,DMoneyUser 1-1,text,true,,409,531,1,1,http://dmoney.roadtocareer.net/transaction/deposit,43,0,0
+1675785477554,49,Withdraw some money from agent,201,Created,DMoneyUser 1-1,text,true,,396,532,1,1,http://dmoney.roadtocareer.net/transaction/withdraw,49,0,0
+1675785477604,24,Delete user,200,OK,DMoneyUser 1-1,text,true,,343,440,1,1,http://dmoney.roadtocareer.net/user/delete/6245,24,0,0
